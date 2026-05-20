@@ -4,10 +4,13 @@ Deep-dives into blockchain security, infrastructure attacks, and offensive secur
 
 ## 📚 Articles
 
-1. <a href="https://www.zealynx.io/blogs/when-web2-infrastructure-breaks-defi" target="_blank">When Web2 Infrastructure Breaks DeFi</a>  
+1. <a href="https://www.zealynx.io/research/adversarial-security/when-web2-infrastructure-breaks-defi" target="_blank">When Web2 Infrastructure Breaks DeFi</a>  
    Front-end attack vectors, OWASP risks, and how UI vulnerabilities bypass smart contract security.
 
-2. <a href="https://www.zealynx.io/blogs/weakest-link-defi-web-app" target="_blank">The Weakest Link in DeFi Isn't the Smart Contract — It's the Web App</a>  
+2. <a href="https://www.zealynx.io/research/adversarial-security/weakest-link-defi-web-app" target="_blank">The Weakest Link in DeFi Isn't the Smart Contract — It's the Web App</a>  
    Deep dive on front-end vulnerabilities, supply chain attacks, and UI-based social engineering that bypass smart contract security.
+
+3. <a href="https://www.zealynx.io/research/adversarial-security/Supply-chain-attacks-web3" target="_blank">Supply Chain Attacks in Web3 — From NPM to Protocol Exploits</a>  
+   How compromised dependencies, malicious libraries, and third-party integrations create invisible attack vectors that undermine even the most secure smart contracts.
 
 ---
