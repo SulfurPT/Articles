@@ -13,7 +13,7 @@ Deep-dives into blockchain security, infrastructure attacks, and offensive secur
 3. <a href="https://www.zealynx.io/research/adversarial-security/Supply-chain-attacks-web3" target="_blank">Supply Chain Attacks in Web3 — From NPM to Protocol Exploits</a>  
    How compromised dependencies, malicious libraries, and third-party integrations create invisible attack vectors that undermine even the most secure smart contracts.
 
-4. <a href="https://www.zealynx.io/research/adversarial-security/blind-signing-bybit" target="_blank">Blind Signing — When Wallet Security Becomes Blind Trust</a> 
+4. <a href="https://www.zealynx.io/research/adversarial-security/blind-signing-bybit" target="_blank">Blind Signing — When Wallet Security Becomes Blind Trust</a>  
    An analysis of blind signing attacks, how malicious transactions deceive users, the Bybit incident, and practical mitigations to reduce signing risk across the Web3 ecosystem.
 
 ---
